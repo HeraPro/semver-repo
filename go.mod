@@ -3,7 +3,7 @@ module github.com/HeraPro/semver-repo
 go 1.21.0
 
 require (
-	github.com/HeraPro/demo v0.0.0-20240202135127-4a184c1ca09b
+	github.com/HeraPro/demo v0.0.0-20240202142354-773f295cf699
 	github.com/spf13/cobra v1.6.1
 )
 
