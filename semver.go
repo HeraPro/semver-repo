@@ -7,7 +7,7 @@ import (
 	"os"
 )
 
-func main() {
+func GOGOGO() {
 	fmt.Fprintln(os.Stdout, "im not semver-repo yet")
 	demo.Demo()
 }
